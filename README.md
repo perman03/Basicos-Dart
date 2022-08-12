@@ -6,9 +6,13 @@ Ejercicio implementado en la seccion "mixins":
 ORDEN DE LOS TEMAS: 
 
 1.- HOLA MUNDO
+<br>
 2.- TIPOS DE DATOS
+<br>
 3.- BOOL Y CONDICIONALES
+<br>
 4.- LISTAS
+<br>
 5.- MAP
 6.- FUNCIONES
 7.- CLASES
