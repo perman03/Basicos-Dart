@@ -1,4 +1,4 @@
-<h1 align="center">BASICOS DE DART: PRELUDO A FLUTTER<h1/>
+<h1 align="center">BASICOS DE DART: PRELUDO A FLUTTER</h1>
 
 Ejercicio implementado en la seccion "mixins": 
 
